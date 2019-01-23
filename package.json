@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepgae": "https://",
+  "homepage": "https://nishitmehta1.github.io/RoboFriends-React-Redux/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
